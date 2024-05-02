@@ -13,14 +13,15 @@
 
 // Block-scoped variables
 
-if (true) {
-    let localVariable = "I'm a local variable";
-    console.log(localVariable); // Output: I'm a local variable
-}
+          if (true) {
+              let localVariable = "I'm a local variable";
+              console.log(localVariable); // Output: I'm a local variable
+          }
 
 console.log(localVariable); // Error: localVar is not defined
 
 //Error. Because I try to access it outside of the code block
 
 
+// Declaring variables with const
 
