@@ -1,3 +1,6 @@
 // Variables with let and const
 
 // Declaring variables with let
+
+let name = "masum";
+let age = 40;
