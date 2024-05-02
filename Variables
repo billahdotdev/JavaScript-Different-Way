@@ -2,5 +2,5 @@
 
 // Declaring variables with let
 
-let name = "masum";
-let age = 40;
+          let name = "masum";
+          let age = 40;
