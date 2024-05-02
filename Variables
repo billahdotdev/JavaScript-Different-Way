@@ -7,5 +7,5 @@
 
 // Variables declared with let can be reassigned
 
-let name = "Billah";
-let age = 43;
+          let name = "Billah";
+          let age = 43;
