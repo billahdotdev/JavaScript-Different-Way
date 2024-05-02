@@ -1,0 +1,1 @@
+# JavaScript-Different-Way
