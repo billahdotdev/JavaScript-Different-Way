@@ -20,5 +20,7 @@ if (true) {
 
 console.log(localVariable); // Error: localVar is not defined
 
-
 //Error. Because I try to access it outside of the code block
+
+
+
