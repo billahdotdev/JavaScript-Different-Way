@@ -12,8 +12,12 @@
 
 
 // Block-scoped variables
+
 if (true) {
-    let localVar = "I'm a local variable";
-    console.log(localVar); // Output: I'm a local variable
+    let localVariable = "I'm a local variable";
+    console.log(localVariable); // Output: I'm a local variable
 }
-console.log(localVar); // Error: localVar is not defined
+
+console.log(localVariable); // Error: localVar is not defined
+
+//Error. Because I try to access it outside of the code block
