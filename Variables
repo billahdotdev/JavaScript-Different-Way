@@ -37,3 +37,10 @@ PI = 3.14159; // Error: Assignment to constant variable
 // However, properties of objects declared with const can be modified
 person.age = 31; // Valid
 
+
+// Block-scoped variables
+if (true) {
+    const localVar = "I'm a local variable";
+    console.log(localVar); // Output: I'm a local variable
+}
+console.log(localVar); // Error: localVar is not defined
