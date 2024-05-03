@@ -7,7 +7,7 @@ Lexical Scope
 
 
 
-//Block Scope ()
+//Block Scope (Scope accessible only within the block it's defined in (curly braces {}))
 
 //Global Scope (Scope accessible throughout the entire code)
 
