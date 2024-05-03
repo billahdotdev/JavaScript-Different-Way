@@ -2,7 +2,7 @@
 
 // Declaring variables with let
 
-          let name = "masum";
+          let name = "Masum";
           let age = 40;
 
 // Variables declared with let can be reassigned
