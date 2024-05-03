@@ -1,9 +1,8 @@
 /*
-Scopes:
-Block, 
-Global, 
-Function, 
-Lexical
+Block Scope, 
+Global Scope, 
+Function Scope, 
+Lexical Scope
 */
 
 //Block Scope
