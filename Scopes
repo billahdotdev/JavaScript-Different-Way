@@ -1,4 +1,10 @@
-/*Scopes*/
+/*
+Scopes:
+Block, 
+Global, 
+Function, 
+Lexical
+*/
 //Block Scope
 //Global Scope
 // Function scope
