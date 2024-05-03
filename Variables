@@ -33,3 +33,6 @@ console.log(localVariable); // Error: localVar is not defined
 
 // Variables declared with const cannot be reassigned
 PI = 3.14159; // Error: Assignment to constant variable
+
+// However, properties of objects declared with const can be modified
+person.age = 31; // Valid
