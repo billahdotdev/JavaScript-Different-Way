@@ -9,7 +9,7 @@ Lexical Scope
 
 //Block Scope ()
 
-//Global Scope ()
+//Global Scope (Scope accessible throughout the entire code)
 
 // Function scope ()
 
