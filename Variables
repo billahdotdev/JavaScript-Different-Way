@@ -25,3 +25,8 @@ console.log(localVariable); // Error: localVar is not defined
 
 // Declaring variables with const
 
+          const PI = 3.14;
+          const person = {
+              name: "Billah",
+              age: 30
+          };
