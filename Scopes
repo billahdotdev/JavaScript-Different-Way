@@ -13,7 +13,7 @@ Lexical Scope
 
 // Function scope (Scope accessible only within the function where it's defined)
 
-// Lexical Scope ()
+// Lexical Scope (Ability of inner functions to access variables from their outer function)
 
 // Scope Chain ()
 
