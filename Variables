@@ -50,3 +50,4 @@ console.log(localVar); // Error: localVar is not defined
 let and const 
 both are Block-scoped 
 */
+
