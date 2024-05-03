@@ -11,7 +11,7 @@ Lexical Scope
 
 //Global Scope (Scope accessible throughout the entire code)
 
-// Function scope ()
+// Function scope (Scope accessible only within the function where it's defined)
 
 // Lexical Scope ()
 
