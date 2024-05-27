@@ -1,3 +1,6 @@
 // Hoiesting
 
-Hoisting in JavaScript is a behavior where variable and function declarations are moved to the top of their containing scope during the compile phase. This means that you can use variables and functions before they are declared in the code. However, understanding how hoisting works with different types of declarations (var, let, const, and function) is crucial for writing predictable and bug-free code.
+Hoisting in JavaScript is a behavior where variable and function declarations are moved to the top of their 
+containing scope during the compile phase. This means that you can use variables and functions before they 
+are declared in the code. However, understanding how hoisting works with different types of declarations 
+(var, let, const, and function) is crucial for writing predictable and bug-free code.
