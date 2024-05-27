@@ -7,3 +7,6 @@ are declared in the code. However, understanding how hoisting works with differe
 
 
 // Variable Hoisting
+
+
+// Function Hoisting
